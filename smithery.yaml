@@ -1,0 +1,6 @@
+# Smithery configuration for genpark-tfidf-vectorizer-cosine-similarity-skill
+name: genpark-tfidf-vectorizer-cosine-similarity-skill
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
+type: stdio
